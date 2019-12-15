@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import {Link, HashRouter} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 
 const Navbar = ({icon, title}) => {
     return (
@@ -8,7 +8,6 @@ const Navbar = ({icon, title}) => {
             <h1>
                 <i className={icon} /> {title}
             </h1>
-            <HashRouter basename='/'>
                 <ul>
                     <li>
                         <Link to='/'>Home</Link>
@@ -17,7 +16,6 @@ const Navbar = ({icon, title}) => {
                         <Link to='/about'>About</Link>
                     </li>
                 </ul>
-            </HashRouter>
         </nav>
     );
 };
