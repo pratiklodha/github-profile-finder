@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pratiklodha/github-profile-finder/static/css/main.f65227a3.chunk.css",
+    "main.js": "/pratiklodha/github-profile-finder/static/js/main.4ff9cf5d.chunk.js",
+    "main.js.map": "/pratiklodha/github-profile-finder/static/js/main.4ff9cf5d.chunk.js.map",
+    "runtime-main.js": "/pratiklodha/github-profile-finder/static/js/runtime-main.493cbe20.js",
+    "runtime-main.js.map": "/pratiklodha/github-profile-finder/static/js/runtime-main.493cbe20.js.map",
+    "static/js/2.9dc2e6ec.chunk.js": "/pratiklodha/github-profile-finder/static/js/2.9dc2e6ec.chunk.js",
+    "static/js/2.9dc2e6ec.chunk.js.map": "/pratiklodha/github-profile-finder/static/js/2.9dc2e6ec.chunk.js.map",
+    "index.html": "/pratiklodha/github-profile-finder/index.html",
+    "precache-manifest.e284608936811034c2c640ff280fb20c.js": "/pratiklodha/github-profile-finder/precache-manifest.e284608936811034c2c640ff280fb20c.js",
+    "service-worker.js": "/pratiklodha/github-profile-finder/service-worker.js",
+    "static/css/main.f65227a3.chunk.css.map": "/pratiklodha/github-profile-finder/static/css/main.f65227a3.chunk.css.map",
+    "static/js/2.9dc2e6ec.chunk.js.LICENSE": "/pratiklodha/github-profile-finder/static/js/2.9dc2e6ec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.493cbe20.js",
+    "static/js/2.9dc2e6ec.chunk.js",
+    "static/css/main.f65227a3.chunk.css",
+    "static/js/main.4ff9cf5d.chunk.js"
+  ]
+}
